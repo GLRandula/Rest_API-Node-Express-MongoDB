@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone <[repository-url](https://github.com/GLRandula/Rest_API-Node-Express-MongoDB.git)>
+   git clone https://github.com/GLRandula/Rest_API-Node-Express-MongoDB.git
    cd <repository-folder>
    ```
 
